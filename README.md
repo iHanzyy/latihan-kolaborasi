@@ -1,4 +1,4 @@
 # latihan-kolaborasi
-komit 1  
-komit 2  
-komit 3
+komat 1  
+komat 2  
+komat 3
